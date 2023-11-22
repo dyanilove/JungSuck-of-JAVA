@@ -1,4 +1,4 @@
-package 객체지향언어;
+package C01객체지향언어;
 
 public class EX03_클래스의정의 {
 //	객체 배열 == 참조변수 배열

@@ -1,4 +1,4 @@
-package 객체지향언어;
+package C01객체지향언어;
 
 class Tv{
 	// TV의 속성(변수)

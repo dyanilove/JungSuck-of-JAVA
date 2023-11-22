@@ -1,4 +1,4 @@
-package 객체지향언어;
+package C01객체지향언어;
 
 class Variables{
 	int iv;		// 인스턴스 변수

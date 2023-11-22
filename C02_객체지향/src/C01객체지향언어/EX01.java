@@ -1,4 +1,4 @@
-package 객체지향언어;
+package C01객체지향언어;
 
 public class EX01 {
 //	oop(object - oriented - programming)객체지향프로그래밍의 핵심개념
